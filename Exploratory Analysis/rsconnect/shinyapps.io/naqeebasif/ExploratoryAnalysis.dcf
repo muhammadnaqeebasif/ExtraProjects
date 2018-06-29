@@ -1,0 +1,12 @@
+name: ExploratoryAnalysis
+title: ExploratoryAnalysis
+username:
+account: naqeebasif
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 292435
+bundleId: 1251051
+url: https://naqeebasif.shinyapps.io/ExploratoryAnalysis/
+when: 1520108318.69949
+asMultiple: FALSE
+asStatic: FALSE
