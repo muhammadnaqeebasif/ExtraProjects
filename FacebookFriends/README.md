@@ -1,8 +1,8 @@
 # Facebook Friends
-In this project mutual friends are found out using apache hadoop framework. This project incoporates the concept of custom Writables, Pairs of Writables,ArrayWritables and JSONParsing. The entries in the input are of the following format:
-Person1 \t His list of friends
-Person2 \t His list of friends
-.......
+In this project mutual friends are found out using apache hadoop framework. This project incoporates the concept of custom Writables, Pairs of Writables,ArrayWritables and JSONParsing. The entries in the input are of the following format:   
+Person1 \t His list of friends   
+Person2 \t His list of friends   
+.......   
 
 Following are the steps involved in this project:
 1. Friend Class is created which implements WritableComparable interface. This class contains the basic information of a person or his friend.
