@@ -1,0 +1,10 @@
+[1:Darrick Molina:Abbott,2:Darrick Archer:Abiquiu]	{4:Darrick Love:Ackerman;5:Darrick Cowan:Abernathy;3:Darrick Nelson:Abita Springs}
+[1:Darrick Molina:Abbott,3:Darrick Nelson:Abita Springs]	{5:Darrick Cowan:Abernathy;2:Darrick Archer:Abiquiu;4:Darrick Love:Ackerman}
+[1:Darrick Molina:Abbott,4:Darrick Love:Ackerman]	{5:Darrick Cowan:Abernathy;3:Darrick Nelson:Abita Springs;2:Darrick Archer:Abiquiu}
+[1:Darrick Molina:Abbott,5:Darrick Cowan:Abernathy]	{3:Darrick Nelson:Abita Springs;2:Darrick Archer:Abiquiu;4:Darrick Love:Ackerman}
+[2:Darrick Archer:Abiquiu,3:Darrick Nelson:Abita Springs]	{4:Darrick Love:Ackerman;5:Darrick Cowan:Abernathy;1:Darrick Molina:Abbott}
+[2:Darrick Archer:Abiquiu,4:Darrick Love:Ackerman]	{5:Darrick Cowan:Abernathy;3:Darrick Nelson:Abita Springs;1:Darrick Molina:Abbott}
+[2:Darrick Archer:Abiquiu,5:Darrick Cowan:Abernathy]	{4:Darrick Love:Ackerman;3:Darrick Nelson:Abita Springs;1:Darrick Molina:Abbott}
+[3:Darrick Nelson:Abita Springs,4:Darrick Love:Ackerman]	{5:Darrick Cowan:Abernathy;1:Darrick Molina:Abbott;2:Darrick Archer:Abiquiu}
+[3:Darrick Nelson:Abita Springs,5:Darrick Cowan:Abernathy]	{1:Darrick Molina:Abbott;2:Darrick Archer:Abiquiu;4:Darrick Love:Ackerman}
+[4:Darrick Love:Ackerman,5:Darrick Cowan:Abernathy]	{2:Darrick Archer:Abiquiu;3:Darrick Nelson:Abita Springs;1:Darrick Molina:Abbott}
