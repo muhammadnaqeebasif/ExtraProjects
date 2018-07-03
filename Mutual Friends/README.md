@@ -1,4 +1,4 @@
-# FacebookFriends
+# Mutual Friends
 This project contains two folder
 ```Java Implementation``` Its the implementation in Java Hadoop Framework
 ```PySpark Implementation``` The same project but implemented in PySpark
